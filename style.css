@@ -2,5 +2,10 @@ body{
     background-color: aliceblue;
 }
 header{
+<<<<<<< HEAD
     color: blue;
+=======
+    margin: 20px;
+    padding: 20px;
+>>>>>>> dev2
 }
